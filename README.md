@@ -20,3 +20,7 @@
 - ML/DL: &nbsp; <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=Pytorch&style=flat&labelColor=white"> <img src="https://img.shields.io/badge/-scikit--learn-EE4C2C?logo=scikit-learn&style=flat&labelColor=white">  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=SciPy&style=flat&labelColor=white">
 - NLP: &nbsp; <img src="https://img.shields.io/badge/-spaCy-09A3D5?logo=spaCy&style=flat&labelColor=white">
 - NLU: &nbsp; <img src="https://img.shields.io/badge/-Rasa-5A17EE?logo=Rasa&style=flat&logoColor=5A17EE&labelColor=white">
+  
+#
+
+  ![Profile views](https://gpvc.arturio.dev/zarzouram)  
