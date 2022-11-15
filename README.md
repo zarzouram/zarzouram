@@ -6,7 +6,7 @@
 
 ### :fire: About Me:
 - I am intersted in NLP, NLU and multimodal learning based on language processing.
-- IA final year master's student in language technology at Gothenburg University.
+- A final year master's student in language technology at Gothenburg University.
 
 ### :briefcase: Projects:
 - Image captioning using a transformer-based model, based on arXiv:2101.10804. [:link:](https://github.com/zarzouram/image_captioning_with_transformers)
