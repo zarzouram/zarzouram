@@ -9,11 +9,11 @@
 - A final year master's student in language technology at Gothenburg University.
 
 ### :briefcase: Projects:
-- Image captioning using a transformer-based model, based on arXiv:2101.10804. [:link:](https://github.com/zarzouram/image_captioning_with_transformers)
-- Relations extraction using sequence on tree structure LSTMs, based on 10.18653/v1/P16-1105. [:link:](https://github.com/zarzouram/RE_Extraction_tree_and_Seq_LSTM)
-- Embedding textual spatial language (ongoing) (based on google paper arXiv:1807.01670). [:link:](https://github.com/zarzouram/aics-project)
-- A bot that plays the word gaming Ghost with a user. The bot is implemented using using Rasa. [:link:](https://github.com/zarzouram/Play_Ghost_With_Rasa)
-- A bot assistant that helps a user in interfacing with Zotero. The user can add papers and query about the items in their database. The bot was implemented using a proprietary tool called TDM [:link:](https://github.com/zarzouram/DialogueSystems_LT2319/tree/main/zotero_helper)
+- [:link:](https://github.com/zarzouram/image_captioning_with_transformers) Image captioning using a transformer-based model, based on arXiv:2101.10804.
+- [:link:](https://github.com/zarzouram/RE_Extraction_tree_and_Seq_LSTM) Relations extraction using sequence on tree structure LSTMs, based on 10.18653/v1/P16-1105.
+- [:link:](https://github.com/zarzouram/aics-project) Embedding textual spatial language (ongoing) (based on google paper arXiv:1807.01670).
+- [:link:](https://github.com/zarzouram/Play_Ghost_With_Rasa) A bot that plays the word gaming Ghost with a user. The bot is implemented using using Rasa.
+- [:link:](https://github.com/zarzouram/DialogueSystems_LT2319/tree/main/zotero_helper) A bot assistant that helps a user in interfacing with Zotero. The user can add papers and query about the items in their database. The bot was implemented using a proprietary tool called TDM.
 
 ### :hammer_and_wrench: Languages and Tools:
 
