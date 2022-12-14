@@ -5,6 +5,7 @@
 </div></a>
 
 ### :fire: About Me:
+- I am intersted in NLP, NLU and multimodal learning based on language processing.
 - A final year master's student in language technology at Gothenburg University.
 
 ### :briefcase: Projects:
