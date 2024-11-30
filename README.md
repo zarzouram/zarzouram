@@ -5,8 +5,7 @@
 </div></a>
 
 ### :fire: About Me:
-- I am intersted in NLP, NLU and multimodal learning based on language processing.
-- A final year master's student in language technology at Gothenburg University.
+- I am interested in NLP, NLU, and multimodal learning based on language processing.
 
 ### :briefcase: Projects:
 - [:link:](https://github.com/zarzouram/image_captioning_with_transformers) Image captioning using a transformer-based model, based on arXiv:2101.10804.
