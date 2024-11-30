@@ -24,6 +24,3 @@
 
 - NLU: &nbsp; <img src="https://img.shields.io/badge/-Rasa-5A17EE?logo=Rasa&style=flat&logoColor=5A17EE&labelColor=white">
 
-#
-
-  ![Profile views](https://gpvc.arturio.dev/zarzouram)  
